@@ -1,0 +1,13 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="File '.../sites/all/modules/klicktipp/forms/subaccount.inc [klick-tipp]'" />
+    <option name="defaultScopeName" value="File '.../sites/all/modules/klicktipp/forms/subaccount.inc [klick-tipp]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '.../sites/all/modules/klicktipp/forms/subaccount.inc [klick-tipp]'" />
+  </component>
+</application>
