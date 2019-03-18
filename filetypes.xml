@@ -13,8 +13,6 @@
       <mapping pattern="_cart.scss" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <mapping pattern="_product-archive" type="SCSS" />
       <mapping pattern="_webinar-modal" type="Sass" />
       <mapping pattern="imageProperties" type="TypeScript" />
