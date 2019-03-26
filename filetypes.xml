@@ -1,0 +1,22 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="info" type="Ini" />
+      <mapping pattern="iframe-responsive-external" type="JavaScript" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern="enqueue.php" type="PLAIN_TEXT" />
+      <mapping pattern="lol" type="PLAIN_TEXT" />
+      <mapping pattern="_cart.scss" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping pattern="_product-archive" type="SCSS" />
+      <mapping pattern="_webinar-modal" type="Sass" />
+      <mapping pattern="imageProperties" type="TypeScript" />
+      <mapping ext="service" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>
